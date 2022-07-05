@@ -1,2 +1,10 @@
-*.class
-*.log
+
+# IntelliJ
+/out/
+.idea
+/target/
+/results/
+ *.iml
+ modules.xml
+ *.ipr
+ *.iws
